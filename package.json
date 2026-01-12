@@ -1,5 +1,5 @@
 {
-  "name": "afk-bot",
+  "name": "minecraft-bot",
   "version": "1.0.0",
   "description": "Minecraft bot 1.20.1 działający na Railway",
   "main": "bot.js",
@@ -15,4 +15,3 @@
     "node": "20.x"
   }
 }
-🔹 Ważne uwagi:
